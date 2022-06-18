@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fsbano
 - 👀 I’m interested in Awesome Project
-- 🌱 I’m currently learning Angular, ReactJS, VueJS
+- 🌱 I’m currently learning Angular, ReactJS, VueJS, Quarkus, Spring, Thymeleaf
 - 💞️ I’m looking to collaborate on Katello
 - 📫 How to reach me me@fsbano.io
 
